@@ -1,0 +1,28 @@
+{
+    "locations": [
+        {
+            "id": 100658225,
+            "name": "Helsinki",
+            "country": "Finland",
+            "timezone": "Europe/Helsinki",
+            "language": "en",
+            "adminArea": "Uusimaa",
+            "adminArea2": "Helsinki",
+            "adminArea3": "Helsinki",
+            "lon": 24.9354,
+            "lat": 60.1695
+        },
+        {
+            "id": 220000024,
+            "name": "Helsinki Golf Club",
+            "country": "Finland",
+            "timezone": "Europe/Helsinki",
+            "language": "en",
+            "adminArea": null,
+            "adminArea2": null,
+            "adminArea3": null,
+            "lon": 24.8638,
+            "lat": 60.2118
+        }
+    ]
+}
